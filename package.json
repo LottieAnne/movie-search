@@ -7,7 +7,6 @@
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
     "boxen": "^6.2.1",
-    "lint-staged": "^13.0.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-scripts": "5.0.0",
@@ -52,6 +51,9 @@
     "eslint-plugin-storybook": "^0.5.12",
     "eslint-plugin-unused-imports": "^2.0.0",
     "husky": "^7.0.0",
-    "prettier": "2.6.2"
+    "lint-staged": "^13.0.0",
+    "prettier": "2.6.2",
+    "stylelint": "^14.8.5",
+    "stylelint-config-standard": "^25.0.0"
   }
 }
